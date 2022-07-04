@@ -22,7 +22,7 @@ A back-end for an e-commerce site using a modifying starter code and configure a
 
 ## Demo and Links
 
-* [Video Demo](https://drive.google.com/file/d/1HKdOMgt5l031SUxf4brJPzKaayeMDJi1/view?usp=sharing)
+* [Video Demo](https://drive.google.com/file/d/147SxgXKnWxBOA2dynKkdv-qzDa37urxc/view?usp=sharing)
 * [Github](https://github.com/jak3ster/My-ORM-Back-End)
 
 ## Features
